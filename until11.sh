@@ -1,4 +1,6 @@
 #!/bin/bash
+
+##################eggggggggggggggggggggggggggggggggg
 a=0
 until [ ! $a -lt 40 ]
 do
